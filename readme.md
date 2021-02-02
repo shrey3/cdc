@@ -1,4 +1,4 @@
-# High Performance Web Dev Class React.js Development Boilerplate
+# High Performance Web Dev React.js Development Boilerplate
 
 The following tools are available:
 
