@@ -1,0 +1,14 @@
+/* .app {
+  height: 100%;
+}*/
+
+.header {
+  text-decoration: underline;
+}
+.root {
+  border-style: solid;
+  border-color: red;
+}
+.MuiTableCell-root .MuiTableCell-head {
+  text-decoration: solid;
+}
